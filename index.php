@@ -1,3 +1,5 @@
+// Open a text file. 
+
 <?php
     $filename = './books/Charles Dickens/A Tale of Two Cities.txt';
     $f = fopen($filename, 'r');
